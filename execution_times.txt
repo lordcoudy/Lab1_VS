@@ -1,0 +1,300 @@
+Matrix size: 64
+Iteration: 1
+Execution time for operation 1: 0.001208 milliseconds
+Execution time for operation 2: 0.000875 milliseconds
+Execution time for operation 3: 0.000708 milliseconds
+Execution time for operation 4: 0.000792 milliseconds
+Matrix size: 64
+Iteration: 2
+Execution time for operation 1: 0.000833 milliseconds
+Execution time for operation 2: 0.004125 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.000708 milliseconds
+Matrix size: 64
+Iteration: 3
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.000667 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.000709 milliseconds
+Matrix size: 64
+Iteration: 4
+Execution time for operation 1: 0.000958 milliseconds
+Execution time for operation 2: 0.000667 milliseconds
+Execution time for operation 3: 0.000666 milliseconds
+Execution time for operation 4: 0.00075 milliseconds
+Matrix size: 64
+Iteration: 5
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.000708 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.000708 milliseconds
+Matrix size: 64
+Iteration: 6
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.000708 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.00075 milliseconds
+Matrix size: 64
+Iteration: 7
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.000666 milliseconds
+Execution time for operation 3: 0.001458 milliseconds
+Execution time for operation 4: 0.000708 milliseconds
+Matrix size: 64
+Iteration: 8
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.00075 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.000709 milliseconds
+Matrix size: 64
+Iteration: 9
+Execution time for operation 1: 0.00075 milliseconds
+Execution time for operation 2: 0.000667 milliseconds
+Execution time for operation 3: 0.000625 milliseconds
+Execution time for operation 4: 0.000709 milliseconds
+Matrix size: 64
+Iteration: 10
+Execution time for operation 1: 0.000792 milliseconds
+Execution time for operation 2: 0.000666 milliseconds
+Execution time for operation 3: 0.000667 milliseconds
+Execution time for operation 4: 0.000708 milliseconds
+Matrix size: 256
+Iteration: 1
+Execution time for operation 1: 0.051375 milliseconds
+Execution time for operation 2: 0.044167 milliseconds
+Execution time for operation 3: 0.044084 milliseconds
+Execution time for operation 4: 0.04425 milliseconds
+Matrix size: 256
+Iteration: 2
+Execution time for operation 1: 0.056583 milliseconds
+Execution time for operation 2: 0.044 milliseconds
+Execution time for operation 3: 0.0555 milliseconds
+Execution time for operation 4: 0.027292 milliseconds
+Matrix size: 256
+Iteration: 3
+Execution time for operation 1: 0.014416 milliseconds
+Execution time for operation 2: 0.014375 milliseconds
+Execution time for operation 3: 0.014042 milliseconds
+Execution time for operation 4: 0.014 milliseconds
+Matrix size: 256
+Iteration: 4
+Execution time for operation 1: 0.014167 milliseconds
+Execution time for operation 2: 0.014125 milliseconds
+Execution time for operation 3: 0.014208 milliseconds
+Execution time for operation 4: 0.014 milliseconds
+Matrix size: 256
+Iteration: 5
+Execution time for operation 1: 0.014333 milliseconds
+Execution time for operation 2: 0.014083 milliseconds
+Execution time for operation 3: 0.014125 milliseconds
+Execution time for operation 4: 0.014208 milliseconds
+Matrix size: 256
+Iteration: 6
+Execution time for operation 1: 0.014125 milliseconds
+Execution time for operation 2: 0.014292 milliseconds
+Execution time for operation 3: 0.01425 milliseconds
+Execution time for operation 4: 0.063459 milliseconds
+Matrix size: 256
+Iteration: 7
+Execution time for operation 1: 0.015084 milliseconds
+Execution time for operation 2: 0.014375 milliseconds
+Execution time for operation 3: 0.018834 milliseconds
+Execution time for operation 4: 0.015208 milliseconds
+Matrix size: 256
+Iteration: 8
+Execution time for operation 1: 0.014167 milliseconds
+Execution time for operation 2: 0.014208 milliseconds
+Execution time for operation 3: 0.014167 milliseconds
+Execution time for operation 4: 0.0145 milliseconds
+Matrix size: 256
+Iteration: 9
+Execution time for operation 1: 0.014208 milliseconds
+Execution time for operation 2: 0.014041 milliseconds
+Execution time for operation 3: 0.014083 milliseconds
+Execution time for operation 4: 0.014167 milliseconds
+Matrix size: 256
+Iteration: 10
+Execution time for operation 1: 0.014542 milliseconds
+Execution time for operation 2: 0.014291 milliseconds
+Execution time for operation 3: 0.014375 milliseconds
+Execution time for operation 4: 0.014208 milliseconds
+Matrix size: 1024
+Iteration: 1
+Execution time for operation 1: 1.43083 milliseconds
+Execution time for operation 2: 0.839959 milliseconds
+Execution time for operation 3: 0.710709 milliseconds
+Execution time for operation 4: 0.677792 milliseconds
+Matrix size: 1024
+Iteration: 2
+Execution time for operation 1: 0.670834 milliseconds
+Execution time for operation 2: 0.85475 milliseconds
+Execution time for operation 3: 1.30896 milliseconds
+Execution time for operation 4: 0.814833 milliseconds
+Matrix size: 1024
+Iteration: 3
+Execution time for operation 1: 0.78375 milliseconds
+Execution time for operation 2: 0.507458 milliseconds
+Execution time for operation 3: 0.960458 milliseconds
+Execution time for operation 4: 0.88675 milliseconds
+Matrix size: 1024
+Iteration: 4
+Execution time for operation 1: 0.702625 milliseconds
+Execution time for operation 2: 0.923333 milliseconds
+Execution time for operation 3: 0.620833 milliseconds
+Execution time for operation 4: 0.499125 milliseconds
+Matrix size: 1024
+Iteration: 5
+Execution time for operation 1: 0.519791 milliseconds
+Execution time for operation 2: 0.93125 milliseconds
+Execution time for operation 3: 0.6405 milliseconds
+Execution time for operation 4: 0.604959 milliseconds
+Matrix size: 1024
+Iteration: 6
+Execution time for operation 1: 0.571666 milliseconds
+Execution time for operation 2: 0.608667 milliseconds
+Execution time for operation 3: 0.649833 milliseconds
+Execution time for operation 4: 0.675875 milliseconds
+Matrix size: 1024
+Iteration: 7
+Execution time for operation 1: 0.748125 milliseconds
+Execution time for operation 2: 0.61125 milliseconds
+Execution time for operation 3: 0.857042 milliseconds
+Execution time for operation 4: 0.769 milliseconds
+Matrix size: 1024
+Iteration: 8
+Execution time for operation 1: 0.724 milliseconds
+Execution time for operation 2: 0.763458 milliseconds
+Execution time for operation 3: 0.799958 milliseconds
+Execution time for operation 4: 0.9385 milliseconds
+Matrix size: 1024
+Iteration: 9
+Execution time for operation 1: 0.783459 milliseconds
+Execution time for operation 2: 0.798584 milliseconds
+Execution time for operation 3: 0.69775 milliseconds
+Execution time for operation 4: 0.647458 milliseconds
+Matrix size: 1024
+Iteration: 10
+Execution time for operation 1: 0.684708 milliseconds
+Execution time for operation 2: 0.600833 milliseconds
+Execution time for operation 3: 0.666042 milliseconds
+Execution time for operation 4: 0.618375 milliseconds
+Matrix size: 4096
+Iteration: 1
+Execution time for operation 1: 80.9244 milliseconds
+Execution time for operation 2: 9.41679 milliseconds
+Execution time for operation 3: 16.308 milliseconds
+Execution time for operation 4: 24.4394 milliseconds
+Matrix size: 4096
+Iteration: 2
+Execution time for operation 1: 14.3692 milliseconds
+Execution time for operation 2: 9.33696 milliseconds
+Execution time for operation 3: 10.0192 milliseconds
+Execution time for operation 4: 9.96975 milliseconds
+Matrix size: 4096
+Iteration: 3
+Execution time for operation 1: 10.4035 milliseconds
+Execution time for operation 2: 10.2462 milliseconds
+Execution time for operation 3: 9.065 milliseconds
+Execution time for operation 4: 8.68788 milliseconds
+Matrix size: 4096
+Iteration: 4
+Execution time for operation 1: 8.57046 milliseconds
+Execution time for operation 2: 8.75062 milliseconds
+Execution time for operation 3: 8.69925 milliseconds
+Execution time for operation 4: 8.85317 milliseconds
+Matrix size: 4096
+Iteration: 5
+Execution time for operation 1: 8.63288 milliseconds
+Execution time for operation 2: 8.69229 milliseconds
+Execution time for operation 3: 9.69679 milliseconds
+Execution time for operation 4: 17.4223 milliseconds
+Matrix size: 4096
+Iteration: 6
+Execution time for operation 1: 8.65217 milliseconds
+Execution time for operation 2: 9.53367 milliseconds
+Execution time for operation 3: 8.77508 milliseconds
+Execution time for operation 4: 9.20575 milliseconds
+Matrix size: 4096
+Iteration: 7
+Execution time for operation 1: 11.368 milliseconds
+Execution time for operation 2: 9.25517 milliseconds
+Execution time for operation 3: 9.355 milliseconds
+Execution time for operation 4: 10.8352 milliseconds
+Matrix size: 4096
+Iteration: 8
+Execution time for operation 1: 13.1532 milliseconds
+Execution time for operation 2: 18.7874 milliseconds
+Execution time for operation 3: 18.9385 milliseconds
+Execution time for operation 4: 10.7506 milliseconds
+Matrix size: 4096
+Iteration: 9
+Execution time for operation 1: 10.3849 milliseconds
+Execution time for operation 2: 19.1907 milliseconds
+Execution time for operation 3: 13.3992 milliseconds
+Execution time for operation 4: 14.4563 milliseconds
+Matrix size: 4096
+Iteration: 10
+Execution time for operation 1: 11.7143 milliseconds
+Execution time for operation 2: 12.8997 milliseconds
+Execution time for operation 3: 24.9714 milliseconds
+Execution time for operation 4: 10.705 milliseconds
+Matrix size: 8192
+Iteration: 1
+Execution time for operation 1: 604.828 milliseconds
+Execution time for operation 2: 68.7768 milliseconds
+Execution time for operation 3: 37.3823 milliseconds
+Execution time for operation 4: 38.366 milliseconds
+Matrix size: 8192
+Iteration: 2
+Execution time for operation 1: 35.5799 milliseconds
+Execution time for operation 2: 34.383 milliseconds
+Execution time for operation 3: 35.0556 milliseconds
+Execution time for operation 4: 32.8374 milliseconds
+Matrix size: 8192
+Iteration: 3
+Execution time for operation 1: 39.4635 milliseconds
+Execution time for operation 2: 37.8083 milliseconds
+Execution time for operation 3: 33.4247 milliseconds
+Execution time for operation 4: 42.0066 milliseconds
+Matrix size: 8192
+Iteration: 4
+Execution time for operation 1: 37.013 milliseconds
+Execution time for operation 2: 37.255 milliseconds
+Execution time for operation 3: 48.5379 milliseconds
+Execution time for operation 4: 56.5661 milliseconds
+Matrix size: 8192
+Iteration: 5
+Execution time for operation 1: 53.388 milliseconds
+Execution time for operation 2: 194.762 milliseconds
+Execution time for operation 3: 34.355 milliseconds
+Execution time for operation 4: 34.3975 milliseconds
+Matrix size: 8192
+Iteration: 6
+Execution time for operation 1: 36.8895 milliseconds
+Execution time for operation 2: 34.8915 milliseconds
+Execution time for operation 3: 34.63 milliseconds
+Execution time for operation 4: 32.8934 milliseconds
+Matrix size: 8192
+Iteration: 7
+Execution time for operation 1: 33.5614 milliseconds
+Execution time for operation 2: 44.2013 milliseconds
+Execution time for operation 3: 33.6911 milliseconds
+Execution time for operation 4: 35.9148 milliseconds
+Matrix size: 8192
+Iteration: 8
+Execution time for operation 1: 40.573 milliseconds
+Execution time for operation 2: 38.6311 milliseconds
+Execution time for operation 3: 39.09 milliseconds
+Execution time for operation 4: 52.6465 milliseconds
+Matrix size: 8192
+Iteration: 9
+Execution time for operation 1: 38.6633 milliseconds
+Execution time for operation 2: 46.3937 milliseconds
+Execution time for operation 3: 57.8898 milliseconds
+Execution time for operation 4: 49.7227 milliseconds
+Matrix size: 8192
+Iteration: 10
+Execution time for operation 1: 83.0734 milliseconds
+Execution time for operation 2: 77.1237 milliseconds
+Execution time for operation 3: 49.1899 milliseconds
+Execution time for operation 4: 39.9696 milliseconds
